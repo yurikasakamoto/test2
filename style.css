@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.ul-test1 {
+    background-color: blue;
+    width: 20%;
+    color: white;
+}
+
+.ul-test2 li {
+    list-style: none;
+}
+.a-test1 a{
+    text-decoration: none;
+
+}
+.a-test2 a {
+    color: #000000;
+    text-decoration: none;
+}
+.red {
+    color: red;
+}
+.blue {
+    color: blue;
+}
+.green {
+    color: green;
+}
